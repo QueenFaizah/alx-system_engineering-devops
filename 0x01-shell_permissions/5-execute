@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -rwxr--r-- hellio
+chown -rwxr--r-- hello
