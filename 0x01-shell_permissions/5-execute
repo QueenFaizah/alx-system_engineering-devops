@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -rwxr--r-- hello
+chown rwx------ hello
